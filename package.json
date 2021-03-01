@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A desktop todo app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bacuuu/todo-app.git"
+  },
+  "keywords": [
+    "electron",
+    "todo"
+  ],
+  "author": "Bacuuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bacuuu/todo-app/issues"
+  },
+  "homepage": "https://github.com/Bacuuu/todo-app#readme",
+  "devDependencies": {
+    "electron": "^11.3.0"
+  }
+}
